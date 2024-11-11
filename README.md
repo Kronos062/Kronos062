@@ -1,6 +1,9 @@
-<div aling="center">
+<div align="center">
+  
   # Presentación de Cristian Cuesta Martí
+      
 </div>
+
 ## Datos Personales
 
 - **Nombre:** Cristian Cuesta Martí
@@ -20,12 +23,12 @@
 
 ## Educación
 
-**Grado Superior en Programación Web**
-Instituto Manuel Vazquez Montalban
-[Año de inicio - Año esperado de graduación]
+**Grado Superior en Programación Web:**
+ Instituto Manuel Vazquez Montalban
 
-**Grado Medio en Sistemas Microinformaticos y Redes**
-Instituto Barres y Ones.
+
+**Grado Medio en Sistemas Microinformaticos y Redes:**
+ Instituto Barres y Ones.
 
 ## Intereses Profesionales
 
@@ -36,5 +39,5 @@ Instituto Barres y Ones.
 ## Contacto
 
 - Email: [cristiaan0662@gmail.com](mailto:cristiaan0662@gmail.com)
-- LinkedIn: [tu perfil de LinkedIn]
+- LinkedIn: [[Cristian Cuesta](https://es.linkedin.com/in/cristian-cuesta-mart%C3%AD-b30b3021a)]
 - Telefono: 664 495 664
