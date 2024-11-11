@@ -1,6 +1,6 @@
 <div aling="center">
 # Presentación de Cristian Cuesta Martí
-
+</div>
 ## Datos Personales
 
 - **Nombre:** Cristian Cuesta Martí
