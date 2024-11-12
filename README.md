@@ -39,5 +39,5 @@
 ## Contacto
 
 - Email: [cristiaan0662@gmail.com](mailto:cristiaan0662@gmail.com)
-- LinkedIn: [[Cristian Cuesta](https://es.linkedin.com/in/cristian-cuesta-mart%C3%AD-b30b3021a)]
+- LinkedIn: [Cristian Cuesta(https://es.linkedin.com/in/cristian-cuesta-mart%C3%AD-b30b3021a)]
 - Telefono: 664 495 664
