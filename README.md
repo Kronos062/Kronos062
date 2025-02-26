@@ -8,7 +8,7 @@
 
 - **Nombre:** Cristian Cuesta Martí
 - **Año de Estudios:** 2º año
-- **Fromación:** Programación Web
+- **Formación:** Programación Web
 
 ## Habilidades Técnicas
 
@@ -17,7 +17,7 @@
 - JavaScript.
 - Python.
 - Java.
-- Rubi
+- Ruby.
 - PHP.
 - MySQL
 
