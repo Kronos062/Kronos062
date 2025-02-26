@@ -34,7 +34,6 @@
 
 - Desarrollo de aplicaciones Web.
 - Gestion de bases de datos.
-- [Área de interés 3]
 
 ## Contacto
 
